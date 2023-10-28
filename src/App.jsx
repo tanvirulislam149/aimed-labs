@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import styled from 'styled-components';
-import GirlSvg from './components/girlSvg';
+import GirlSvg from "./components/GirlSvg"
 import { AiFillEyeInvisible, AiFillEye } from "react-icons/ai";
 
 function App() {
